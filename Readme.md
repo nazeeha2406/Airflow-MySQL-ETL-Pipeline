@@ -66,7 +66,7 @@ airflow-mysql-etl/
 │   ├── etl_script.py
 │   └── wrapper_script.sh
 │
-├── extract/
+├── output/
 │   └── etl_output_*.csv
 │
 ├── requirements.txt
@@ -121,9 +121,13 @@ Open Airflow UI → Enable `mysql_etl_dag`
 
 ---
 
+![Airflow DAG](screenshots/airflow_dag.png)
+
+---
+
 ## 👩‍💻 Author
 
-Nazee — Aspiring Data Engineer 🚀
+Nazee — Aspiring Data cloud Engineer 🚀
 
 ---
 
