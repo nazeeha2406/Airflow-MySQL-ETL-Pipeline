@@ -142,7 +142,7 @@ Open Airflow UI → Enable `mysql_etl_dag`
 
 ## 👩‍💻 Author
 
-Nazee — Aspiring Data cloud Engineer 🚀
+Nazeeha — Aspiring Data cloud Engineer 🚀
 
 ---
 
