@@ -121,7 +121,22 @@ Open Airflow UI → Enable `mysql_etl_dag`
 
 ---
 
-![Airflow DAG](screenshots/airflow_dag.png)
+## 📸 Screenshots
+
+**Airflow DAG List**
+![Airflow DAG List](screenshots/Airflow%20DAG%20List%20page.png)
+
+**DAG Graph View**
+![DAG Graph View](screenshots/DAG%20Graph%20View.png)
+
+**ETL Output Terminal**
+![ETL Output](screenshots/etl_output_terminal.png.png)
+
+**MySQL ETL Database**
+![MySQL DB](screenshots/mysql_etl_db.png)
+
+**Output Files Created**
+![Output Files](screenshots/output_files_are_created.png)
 
 ---
 
